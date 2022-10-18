@@ -10,7 +10,7 @@ docker compose up -d
 
 ## Services Rendered:
 
-* Blockscout: http://localhost4000
+* Blockscout: http://localhost:4000
 * Smart Contract Verifier: http://localhost:8043
 * Redis: http://localhost6379
 * Postgres: http://localhost5432
