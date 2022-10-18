@@ -12,6 +12,6 @@ docker compose up -d
 
 * Blockscout: http://localhost:4000
 * Smart Contract Verifier: http://localhost:8043
-* Redis: http://localhost6379
-* Postgres: http://localhost5432
+* Redis: http://localhost:6379
+* Postgres: http://localhost:5432
 
